@@ -42,7 +42,7 @@
   right: 0;
   width: 100%;
   z-index:2;
-  background: black;
+  background: $black;
   opacity: 0;
 }
 .card-link:hover{
@@ -50,6 +50,6 @@
 }
 
 .wrapper-grey {
-  background: #F4F4F4;
+  background: $gray-dark;
 }
 
